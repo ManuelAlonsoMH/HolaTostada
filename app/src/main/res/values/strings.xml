@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hola Tostada</string>
+    <string name="botton_label_toast">Tostada</string>
+    <string name="botton_label_count">Contar</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">¡Hola Tostada!</string>
+    <string name="botton_toast">Toast</string>
+</resources>
